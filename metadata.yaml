@@ -1,0 +1,38 @@
+_repo: The-Pardoner-s-Wallet_73172
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crothers, Samuel McChord
+    birthdate: 1857
+    deathdate: 1927
+    gutenberg_agent_id: '6347'
+    url: http://www.gutenberg.org/2009/agents/6347
+    wikipedia: https://en.wikipedia.org/wiki/Samuel_McChord_Crothers
+description: ''
+gutenberg_issued: '2024-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73172'
+  lccn: '05036506'
+language: en
+pgterms:marc904: https://archive.org/details/pardonerswallet00crot_0/page/n9/mode/2up
+pgterms:marc905: 20220313111500crothers
+pgterms:marc906: '1905'
+pgterms:marc907: US
+production_note: Alan, Charlene Taylor and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bHoughton, Mifflin and Company, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American essays -- 20th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The pardoner -- Unseasonable virtues -- An hour with our prejudices
+  -- How to know the fallacies -- The difficulties of the peacemakers -- The land
+  of the large and charitable air -- A community of humorists -- A saint recanonized
+  -- As he sees himself -- A man under enchantment -- The cruelty of good people.
+title: The Pardoner's Wallet
+url: http://www.gutenberg.org/ebooks/73172
